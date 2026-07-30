@@ -67,7 +67,6 @@ print(ela.say_hi())
 
  </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=elabenkhedher&theme=react-dark&bg_color=ffffff&color=FF6FA5&line=FF6FA5&point=8A5C6F&hide_border=true" width="90%" /> </div> 
 
-🌷 These pull live from GitHub's own API, so they're much more stable than the old stat cards. If the activity graph ever hiccups, it's on the same kind of free hosting as before — just give it a refresh.
 
 
 ---
@@ -78,7 +77,7 @@ print(ela.say_hi())
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFC1D6?style=for-the-badge&logo=instagram&logoColor=4B4B4B)](https://www.instagram.com/ela_ben_khedher/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=4B4B4B)](https://www.linkedin.com/in/ela-ben-khedher-949a26239/)
-[![Gmail](https://img.shields.io/badge/Email-FFC1D6?style=for-the-badge&logo=gmail&logoColor=4B4B4B)](elabenkedher@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-FFC1D6?style=for-the-badge&logo=gmail&logoColor=4B4B4B)](mailto:elabenkedher@gmail.com)
 
 </div>
 
