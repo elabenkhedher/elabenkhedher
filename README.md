@@ -62,15 +62,13 @@ print(ela.say_hi())
 ### 📊 A Little Peek at My Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF6FA5&icon_color=FF6FA5&text_color=8A5C6F" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF6FA5&text_color=8A5C6F" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elabenkhedher&show_icons=true&theme=transparent&hide_border=true&title_color=FF6FA5&icon_color=FF6FA5&text_color=8A5C6F" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elabenkhedher&layout=compact&theme=transparent&hide_border=true&title_color=FF6FA5&text_color=8A5C6F" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&background=FFFFFF00&ring=FF6FA5&fire=FF6FA5&currStreakLabel=FF6FA5" />
+<img src="https://streak-stats.demolab.com?user=elabenkhedher&theme=highcontrast&hide_border=true&background=FFFFFF00&ring=FF6FA5&fire=FF6FA5&currStreakLabel=FF6FA5" />
 </div>
-
-> 🌼 Swap `YOUR_GITHUB_USERNAME` above with your real GitHub username so the cards load up properly!
 
 ---
 
